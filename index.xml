@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriele Mantovani Banella</title>
-    <link>http://example.org/</link>
+    <link>https://mantoga.github.io/</link>
     <description>Recent content on Gabriele Mantovani Banella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 11:54:15 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mantoga.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Skills</title>
-      <link>http://example.org/skills/</link>
+      <link>https://mantoga.github.io/skills/</link>
       <pubDate>Sun, 17 Mar 2019 11:54:15 +0100</pubDate>
       
-      <guid>http://example.org/skills/</guid>
+      <guid>https://mantoga.github.io/skills/</guid>
       <description>Web Development I build web apps with Python + (Django, Flask), with Node + (Express, React.js), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + Drupal.
 I do front-end development using React.js + Webpack with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
 Capable of doing basic web production server setup: Ubuntu/Centos with basic security, Bolt/PostgreSQL/PostGIS/MySql/MaridDB/MongoDB/Elasticsearch, nginx + (Gunicorn, uWSGI), Docker &amp;amp; Kubernetes.</description>
@@ -24,20 +24,20 @@ Capable of doing basic web production server setup: Ubuntu/Centos with basic sec
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://mantoga.github.io/about/</link>
       <pubDate>Sun, 17 Mar 2019 10:42:58 +0100</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://mantoga.github.io/about/</guid>
       <description>Full Stack Developer, Web GIS Developer, Project Manager for a wide range of business applications. Skilled with the agile methodology for software development. Interested in Relational Database design, Data Analysis, Multimedia Interactive Applications, Remote Monitoring, Home Automation, Machine Learning.
 You can download my resume here</description>
     </item>
     
     <item>
       <title>Electric Aquarium</title>
-      <link>http://example.org/projects/electric-aquarium/</link>
+      <link>https://mantoga.github.io/projects/electric-aquarium/</link>
       <pubDate>Sun, 01 Jun 2014 11:33:27 +0100</pubDate>
       
-      <guid>http://example.org/projects/electric-aquarium/</guid>
+      <guid>https://mantoga.github.io/projects/electric-aquarium/</guid>
       <description>Oslo, Software development | Norsk Maritimt Museum - 2014
 
 link</description>
@@ -45,28 +45,28 @@ link</description>
     
     <item>
       <title>Sonic Island</title>
-      <link>http://example.org/projects/sonic-island/</link>
+      <link>https://mantoga.github.io/projects/sonic-island/</link>
       <pubDate>Fri, 19 Oct 2012 09:10:36 +0100</pubDate>
       
-      <guid>http://example.org/projects/sonic-island/</guid>
+      <guid>https://mantoga.github.io/projects/sonic-island/</guid>
       <description>Roma, Multimedia | Software development | 2012 - 2013</description>
     </item>
     
     <item>
       <title>In Out</title>
-      <link>http://example.org/projects/in-out/</link>
+      <link>https://mantoga.github.io/projects/in-out/</link>
       <pubDate>Tue, 19 Apr 2011 09:16:27 +0100</pubDate>
       
-      <guid>http://example.org/projects/in-out/</guid>
+      <guid>https://mantoga.github.io/projects/in-out/</guid>
       <description>Roma, Social | Sail therapy | 2011 - 2012</description>
     </item>
     
     <item>
       <title>ReCollection Mechanism</title>
-      <link>http://example.org/projects/recollection-mechanism/</link>
+      <link>https://mantoga.github.io/projects/recollection-mechanism/</link>
       <pubDate>Sat, 01 Jan 2000 12:28:56 +0100</pubDate>
       
-      <guid>http://example.org/projects/recollection-mechanism/</guid>
+      <guid>https://mantoga.github.io/projects/recollection-mechanism/</guid>
       <description>Berlin, Software development | Hamburger Bahnof – 1999 - 2000
 
 link</description>
@@ -74,10 +74,10 @@ link</description>
     
     <item>
       <title>Almalaurea</title>
-      <link>http://example.org/projects/almalaurea/</link>
+      <link>https://mantoga.github.io/projects/almalaurea/</link>
       <pubDate>Fri, 01 Jul 1994 11:17:26 +0100</pubDate>
       
-      <guid>http://example.org/projects/almalaurea/</guid>
+      <guid>https://mantoga.github.io/projects/almalaurea/</guid>
       <description>Bologna, Software development - 1994 - 1998</description>
     </item>
     
