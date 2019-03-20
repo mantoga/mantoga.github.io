@@ -19,7 +19,7 @@
       <guid>https://mantoga.github.io/skills/</guid>
       <description>Web Development I build web apps with Python + (Django, Flask), with Node + (Express, React.js), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + Drupal.
 I do front-end development using React.js + Webpack with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
-Capable of doing basic web production server setup: Ubuntu/Centos with basic security, Bolt/PostgreSQL/PostGIS/MySql/MaridDB/MongoDB/Elasticsearch, nginx + (Gunicorn, uWSGI), Docker &amp;amp; Kubernetes.</description>
+Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySql/MaridDB MongoDB/BoltDB/ Elasticsearch, nginx + (Gunicorn, uWSGI), Docker &amp;amp; Kubernetes.</description>
     </item>
     
     <item>
