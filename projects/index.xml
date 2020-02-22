@@ -20,7 +20,7 @@
       <description>Exibitions - Software development
 Europa
  Sofia, Bulgaria | National Gallery - 2020 Sarajevo, Bosnia and Herzegovina | National Gallery - 2019 Gyumry, Armenia | Art Gallery - 2019  America
- Messico | 2020 Argentina | 2019 Cile | 2019  [] (https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/)</description>
+ Messico | 2020 Argentina | 2019 Cile | 2019  (https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/)</description>
     </item>
     
     <item>
@@ -59,7 +59,6 @@ Europa
       
       <guid>https://mantoga.github.io/projects/recollection-mechanism/</guid>
       <description>Berlin, Software development | [Hamburger Bahnof] (http://www.hamburgerbahnhof.de) – 1999 - 2000
-[![The ReCollection Mechanism © A.Dreyblatt] (recollection-mechanism.png &amp;ldquo;The ReCollection Mechanism © A.Dreyblatt&amp;rdquo;)] (ReCollection-Mechanism.pdf)
 [link] (ReCollection-Mechanism.pdf)</description>
     </item>
     
@@ -70,7 +69,7 @@ Europa
       
       <guid>https://mantoga.github.io/projects/almalaurea/</guid>
       <description>Bologna, Software development - 1994 - 1998
-[] (http://www.almalaurea.it/en)</description>
+(http://www.almalaurea.it/en)</description>
     </item>
     
   </channel>

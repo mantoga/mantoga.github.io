@@ -20,7 +20,7 @@
       <description>Exibitions - Software development
 Europa
  Sofia, Bulgaria | National Gallery - 2020 Sarajevo, Bosnia and Herzegovina | National Gallery - 2019 Gyumry, Armenia | Art Gallery - 2019  America
- Messico | 2020 Argentina | 2019 Cile | 2019  [] (https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/)</description>
+ Messico | 2020 Argentina | 2019 Cile | 2019  (https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/)</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ Capable of doing basic web production server setup: Ubuntu/Centos with basic sec
       
       <guid>https://mantoga.github.io/about/</guid>
       <description>Full Stack Developer, Web GIS Developer, Project Manager for a wide range of business applications. Skilled with the agile methodology for software development. Interested in Relational Database design, Data Analysis, Multimedia Interactive Applications, Remote Monitoring, Home Automation, Machine Learning.
-You can download my resume [here] (CV_MantovaniBanellaGabriele_2020.pdf)</description>
+You can download my resume [here] (CV-MantovaniBanellaGabriele_2020.pdf)</description>
     </item>
     
     <item>
@@ -80,7 +80,6 @@ You can download my resume [here] (CV_MantovaniBanellaGabriele_2020.pdf)</descri
       
       <guid>https://mantoga.github.io/projects/recollection-mechanism/</guid>
       <description>Berlin, Software development | [Hamburger Bahnof] (http://www.hamburgerbahnhof.de) – 1999 - 2000
-[![The ReCollection Mechanism © A.Dreyblatt] (recollection-mechanism.png &amp;ldquo;The ReCollection Mechanism © A.Dreyblatt&amp;rdquo;)] (ReCollection-Mechanism.pdf)
 [link] (ReCollection-Mechanism.pdf)</description>
     </item>
     
@@ -91,7 +90,7 @@ You can download my resume [here] (CV_MantovaniBanellaGabriele_2020.pdf)</descri
       
       <guid>https://mantoga.github.io/projects/almalaurea/</guid>
       <description>Bologna, Software development - 1994 - 1998
-[] (http://www.almalaurea.it/en)</description>
+(http://www.almalaurea.it/en)</description>
     </item>
     
   </channel>
