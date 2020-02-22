@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Gabriele Mantovani Banella</title>
@@ -6,10 +6,22 @@
     <description>Recent content in Projects on Gabriele Mantovani Banella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2014 11:33:27 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 15:44:36 +0100</lastBuildDate>
     
 	<atom:link href="https://mantoga.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invisible Stories</title>
+      <link>https://mantoga.github.io/projects/invisible-stories/</link>
+      <pubDate>Fri, 21 Feb 2020 15:44:36 +0100</pubDate>
+      
+      <guid>https://mantoga.github.io/projects/invisible-stories/</guid>
+      <description>Exibitions - Software development
+Europa
+ Sofia, Bulgaria | National Gallery - 2020 Sarajevo, Bosnia and Herzegovina | National Gallery - 2019 Gyumry, Armenia | Art Gallery - 2019  America
+ Messico | 2020 Argentina | 2019 Cile | 2019  [] (https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/)</description>
+    </item>
     
     <item>
       <title>Electric Aquarium</title>
@@ -19,7 +31,7 @@
       <guid>https://mantoga.github.io/projects/electric-aquarium/</guid>
       <description>Oslo, Software development | Norsk Maritimt Museum - 2014
 
-link</description>
+[link] (Electric-Aquarium.pdf)</description>
     </item>
     
     <item>
@@ -46,9 +58,9 @@ link</description>
       <pubDate>Sat, 01 Jan 2000 12:28:56 +0100</pubDate>
       
       <guid>https://mantoga.github.io/projects/recollection-mechanism/</guid>
-      <description>Berlin, Software development | Hamburger Bahnof – 1999 - 2000
-
-link</description>
+      <description>Berlin, Software development | [Hamburger Bahnof] (http://www.hamburgerbahnhof.de) – 1999 - 2000
+[![The ReCollection Mechanism © A.Dreyblatt] (recollection-mechanism.png &amp;ldquo;The ReCollection Mechanism © A.Dreyblatt&amp;rdquo;)] (ReCollection-Mechanism.pdf)
+[link] (ReCollection-Mechanism.pdf)</description>
     </item>
     
     <item>
@@ -57,7 +69,8 @@ link</description>
       <pubDate>Fri, 01 Jul 1994 11:17:26 +0100</pubDate>
       
       <guid>https://mantoga.github.io/projects/almalaurea/</guid>
-      <description>Bologna, Software development - 1994 - 1998</description>
+      <description>Bologna, Software development - 1994 - 1998
+[] (http://www.almalaurea.it/en)</description>
     </item>
     
   </channel>
