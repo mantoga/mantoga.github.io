@@ -6,10 +6,16 @@
     <description>Recent content in Projects on Gabriele Mantovani Banella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Feb 2020 15:44:36 +0100</lastBuildDate>
-    
-	<atom:link href="https://mantoga.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 12 Aug 2020 18:00:00 +0100</lastBuildDate><atom:link href="https://mantoga.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cantieri della Cività Marinara</title>
+      <link>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</link>
+      <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
+      
+      <guid>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</guid>
+      <description>Porto San Giorgio | Exibitions - Software development | 2020
+Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale. Lo spazio, all’interno del Palazzo Trevisani, nel centro storico di Porto San Giorgio, è diviso in tre sezioni: il Fortunale, il Porto dei Suoni e Onda volubile.</description>
+    </item>
     
     <item>
       <title>Invisible Stories</title>
@@ -63,13 +69,13 @@ THE RECOLLECTION MECHANISM PDF</description>
     </item>
     
     <item>
-      <title>Almalaurea</title>
+      <title>AlmaLaurea</title>
       <link>https://mantoga.github.io/projects/almalaurea/</link>
       <pubDate>Fri, 01 Jul 1994 11:17:26 +0100</pubDate>
       
       <guid>https://mantoga.github.io/projects/almalaurea/</guid>
       <description>Bologna, Software development - 1994 - 1998
-(http://www.almalaurea.it/en)</description>
+Alma Laurea</description>
     </item>
     
   </channel>
