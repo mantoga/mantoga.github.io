@@ -14,7 +14,9 @@
       
       <guid>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</guid>
       <description>Porto San Giorgio | Exibitions - Software development | 2020
-Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale. Lo spazio, all’interno del Palazzo Trevisani, nel centro storico di Porto San Giorgio, è diviso in tre sezioni: il Fortunale, il Porto dei Suoni e Onda volubile.</description>
+System for remote control and management of video streaming and video projectors Stack: Go, Python, React JS, PostgreSql
+ Linea Blu a Porto San Giorgio puntata del 17 ottobre 2020
+ Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale.</description>
     </item>
     
     <item>
@@ -35,7 +37,7 @@ Europa
       <pubDate>Sun, 17 Mar 2019 11:54:15 +0100</pubDate>
       
       <guid>https://mantoga.github.io/skills/</guid>
-      <description>Web Development I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + Drupal.
+      <description>Web Development I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).
 I do front-end development using Angular, React, Svelte, TypeScript with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
 Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySql/MaridDB MongoDB/BoltDB/ Elasticsearch, nginx + (Gunicorn, uWSGI), Docker &amp;amp; Kubernetes.</description>
     </item>
