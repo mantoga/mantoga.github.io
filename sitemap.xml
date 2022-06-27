@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</loc>
-    <lastmod>2020-08-12T18:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://mantoga.github.io/</loc>
-    <lastmod>2020-08-12T18:00:00+01:00</lastmod>
+    <lastmod>2022-02-27T17:00:09+02:00</lastmod>
+  </url><url>
+    <loc>https://mantoga.github.io/projects/piccole-cisterne-fermo-dante/</loc>
+    <lastmod>2022-02-27T17:00:09+02:00</lastmod>
   </url><url>
     <loc>https://mantoga.github.io/projects/</loc>
+    <lastmod>2022-02-27T17:00:09+02:00</lastmod>
+  </url><url>
+    <loc>https://mantoga.github.io/projects/accademia-nazionale-dei-lincei-dante/</loc>
+    <lastmod>2021-10-07T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</loc>
     <lastmod>2020-08-12T18:00:00+01:00</lastmod>
   </url><url>
     <loc>https://mantoga.github.io/projects/invisible-stories/</loc>
