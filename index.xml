@@ -6,7 +6,19 @@
     <description>Recent content on Gabriele Mantovani Banella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 17:00:09 +0200</lastBuildDate><atom:link href="https://mantoga.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jun 2025 18:00:00 +0200</lastBuildDate><atom:link href="https://mantoga.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palazzo San Felice</title>
+      <link>https://mantoga.github.io/projects/palazzo-san-felice/</link>
+      <pubDate>Thu, 12 Jun 2025 18:00:00 +0200</pubDate>
+      
+      <guid>https://mantoga.github.io/projects/palazzo-san-felice/</guid>
+      <description>Verso la futura Biblioteca di Archeologia e Storia dell&amp;rsquo;Arte | Exibitions - Software development | 2024
+Remote control and management system for video streaming and video projectors    Stack: Go, Python, React JS, PostgreSQL
+ 
+Il progetto di curatela e l’allestimento analogico e digitale del percorso di visita è stato affidato, su incarico dell’Agenzia del Demanio - ente attuatore del progetto di ristrutturazione di Palazzo San Felice - e in accordo con la Presidenza della Repubblica e il Ministero della Cultura, a un team di ricercatori e designer del Centro di ricerca e servizi Saperi&amp;amp;Co della Sapienza, guidati da Carlo Martino, docente di Design, e Luca Ruzza, docente di Discipline dello spettacolo, e composto da Gaia Casaldi, Carlotta Belluzzi Mus, Anna Turco, Daniela Dispoto e Donato Locantore.</description>
+    </item>
+    
     <item>
       <title>Piccole Cisterne Fermo</title>
       <link>https://mantoga.github.io/projects/piccole-cisterne-fermo-dante/</link>
@@ -14,7 +26,7 @@
       
       <guid>https://mantoga.github.io/projects/piccole-cisterne-fermo-dante/</guid>
       <description>Paesaggi e personaggi della Commedia | Exibitions - Software development | 2022
-Remote control and management system for video streaming and video projectors Stack: Go, Python, Svelte JS, PostgreSQL
+Remote control and management system for video streaming and video projectors    Stack: Go, Python, Svelte JS, PostgreSQL
 I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;.</description>
     </item>
     
@@ -25,9 +37,9 @@ I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attrave
       
       <guid>https://mantoga.github.io/projects/accademia-nazionale-dei-lincei-dante/</guid>
       <description>Paesaggi e personaggi della Commedia | Exibitions - Software development | 2021
-Remote control and management system for video streaming and video projectors Stack: Go, Python, Svelte JS, PostgreSQL
+Remote control and management system for video streaming and video projectors    Stack: Go, Python, Svelte JS, PostgreSQL
 I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;.
-leggi tutto&amp;hellip;</description>
+ leggi tutto&amp;hellip;</description>
     </item>
     
     <item>
@@ -37,9 +49,10 @@ leggi tutto&amp;hellip;</description>
       
       <guid>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</guid>
       <description>Porto San Giorgio | Exibitions - Software development | 2020
-Remote control and management system for video streaming and video projectors Stack: Go, Python, React JS, PostgreSQL
-Linea Blu a Porto San Giorgio puntata del 17 ottobre 2020
-Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale.</description>
+Remote control and management system for video streaming and video projectors    Stack: Go, Python, React JS, PostgreSQL
+ Linea Blu a Porto San Giorgio puntata del 17 ottobre 2020
+ 
+ Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale.</description>
     </item>
     
     <item>
@@ -51,8 +64,8 @@ Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il P
       <description> Racconti Invisibili | Exibitions - Software development | 2019, 2020
 Stack: Go, Python, React JS, PostgreSQL
 Europa
-Sofia, Bulgaria | Sofia National Gallery - 2020 Sarajevo, Bosnia and Herzegovina | Art Gallery of Bosnia and Herzegovina - 2019 Gyumry, Armenia | Art Gallery - 2019 America
-Monclova, Messico | 2020 Buenos Aires, Argentina | 2019 Santiago del Cile, Cile | 2019 </description>
+ Sofia, Bulgaria | Sofia National Gallery - 2020 Sarajevo, Bosnia and Herzegovina | Art Gallery of Bosnia and Herzegovina - 2019 Gyumry, Armenia | Art Gallery - 2019  America
+ Monclova, Messico | 2020 Buenos Aires, Argentina | 2019 Santiago del Cile, Cile | 2019  </description>
     </item>
     
     <item>
@@ -61,9 +74,8 @@ Monclova, Messico | 2020 Buenos Aires, Argentina | 2019 Santiago del Cile, Cile 
       <pubDate>Sun, 17 Mar 2019 11:54:15 +0100</pubDate>
       
       <guid>https://mantoga.github.io/skills/</guid>
-      <description>Web Development I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).
-I do front-end development using Angular, React, Svelte, TypeScript with (Bootstrap, Material UI), Internet Mapping with Geoserver, PostGIS and (Openlayers, Leaflet), Spatial Data Analysis with QGIS.
-Capable of doing basic web production server setup: Ubuntu/Centos with basic security, PostgreSQL/PostGIS MySql/MaridDB MongoDB/BoltDB/ Elasticsearch, nginx + (Gunicorn, uWSGI), Docker &amp;amp; Kubernetes.</description>
+      <description>Web Development    I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).
+I have strong experience in Web GIS development, working with GeoServer, PostGIS, and frontend libraries like OpenLayers and Leaflet for interactive mapping. I also use QGIS for spatial data processing and analysis, and I’m familiar with spatial ETL pipelines and geospatial data standards (WMS, WFS, GeoJSON, NetCDF).</description>
     </item>
     
     <item>
@@ -84,7 +96,8 @@ You can download my resume here</description>
       <guid>https://mantoga.github.io/projects/electric-aquarium/</guid>
       <description>Oslo, Software development | Norsk Maritimt Museum - 2014
 Stack: Python/Django, jQuery, PostgreSQL
-ELECTRIC AQUARIUM PDF</description>
+ 
+ ELECTRIC AQUARIUM PDF</description>
     </item>
     
     <item>
@@ -112,7 +125,7 @@ ELECTRIC AQUARIUM PDF</description>
       
       <guid>https://mantoga.github.io/projects/recollection-mechanism/</guid>
       <description>Berlin, Software development | Hamburger Bahnof – 1999 - 2000
-THE RECOLLECTION MECHANISM PDF</description>
+ THE RECOLLECTION MECHANISM PDF</description>
     </item>
     
     <item>
@@ -123,8 +136,8 @@ THE RECOLLECTION MECHANISM PDF</description>
       <guid>https://mantoga.github.io/projects/almalaurea/</guid>
       <description>Alma Mater Studiorum, Osservatorio di Statistica, Software development - 1994 - 1998
 Realizzazione del software di gestione del questionario:
-realizzazione modello digitale sviluppo software di scansione sviluppo software di gestione e controllo Alma Laurea Site
-Alma Laurea Wiki</description>
+ realizzazione modello digitale sviluppo software di scansione sviluppo software di gestione e controllo   Alma Laurea Site
+ Alma Laurea Wiki</description>
     </item>
     
   </channel>
