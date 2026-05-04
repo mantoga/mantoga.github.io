@@ -1,96 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gabriele Mantovani Banella</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Gabriele Mantovani Banella</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 12 Jun 2025 18:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Palazzo San Felice</title>
-      <link>http://localhost:1313/projects/palazzo-san-felice/</link>
-      <pubDate>Thu, 12 Jun 2025 18:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/projects/palazzo-san-felice/</guid>
-      <description>&lt;p&gt;Verso la futura Biblioteca di Archeologia e Storia dell&amp;rsquo;Arte | Exhibitions - Software development | 2025&lt;/p&gt;&#xA;&lt;h4 id=&#34;remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;  Remote control and management system for video streaming and video projectors&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.culturaincantiere.it/it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;san-felice-01.png&#34; alt=&#34;locandina&#34; title=&#34;culturaincantiere&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il progetto di curatela e l’allestimento analogico e digitale del percorso di visita è stato affidato, su incarico dell’Agenzia del Demanio - ente attuatore del progetto di ristrutturazione di Palazzo San Felice - e in accordo con la Presidenza della Repubblica e il Ministero della Cultura, a un team di ricercatori e designer del Centro di ricerca e servizi Saperi&amp;amp;Co della Sapienza, guidati da Carlo Martino, docente di Design, e Luca Ruzza, docente di Discipline dello spettacolo, e composto da Gaia Casaldi, Carlotta Belluzzi Mus, Anna Turco, Daniela Dispoto e Donato Locantore.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Piccole Cisterne Fermo</title>
-      <link>http://localhost:1313/projects/piccole-cisterne-fermo-dante/</link>
-      <pubDate>Sun, 27 Feb 2022 17:00:09 +0200</pubDate>
-      <guid>http://localhost:1313/projects/piccole-cisterne-fermo-dante/</guid>
-      <description>&lt;p&gt;Paesaggi e personaggi della Commedia | Exhibitions - Software development | 2022&lt;/p&gt;&#xA;&lt;h4 id=&#34;remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;  Remote control and management system for video streaming and video projectors&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Stack: Go, Python, Svelte JS, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – &lt;strong&gt;in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Accademia Nazionale dei Lincei</title>
-      <link>http://localhost:1313/projects/accademia-nazionale-dei-lincei-dante/</link>
-      <pubDate>Thu, 07 Oct 2021 18:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/projects/accademia-nazionale-dei-lincei-dante/</guid>
-      <description>&lt;p&gt;Paesaggi e personaggi della Commedia | Exhibitions - Software development | 2021&lt;/p&gt;&#xA;&lt;h4 id=&#34;remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;  Remote control and management system for video streaming and video projectors&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Stack: Go, Python, Svelte JS, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – &lt;strong&gt;in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cantieri della Civiltà Marinara</title>
-      <link>http://localhost:1313/projects/cantieri-della-civilta-marinara/</link>
-      <pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/cantieri-della-civilta-marinara/</guid>
-      <description>&lt;p&gt;Porto San Giorgio | Exhibitions - Software development | 2020&lt;/p&gt;&#xA;&lt;h4 id=&#34;remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;  Remote control and management system for video streaming and video projectors&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#remote-control-and-management-system-for-video-streaming-and-video-projectors&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&#xA;&lt;a href=&#34;https://www.raiplay.it/video/2020/10/Linea-Blu---Porto-San-Giorgio-6e2d4ca2-8cae-49a7-85a8-e93f9fc9969b.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linea Blu a Porto San Giorgio puntata del 17 ottobre 2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.sangiorgioturismo.it/cantieri-della-civilta-marinara/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;fortunale.jpg&#34; alt=&#34;Cantieri della Civiltà Marinara&#34; title=&#34;www.sangiorgioturismo.it/cantieri-della-civilta-marinara&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un &lt;strong&gt;polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale&lt;/strong&gt;, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale. Lo spazio, all’interno del Palazzo Trevisani, nel centro storico di Porto San Giorgio, è diviso in tre sezioni: &lt;strong&gt;il Fortunale, il Porto dei Suoni e Onda volubile&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Invisible Stories</title>
-      <link>http://localhost:1313/projects/invisible-stories/</link>
-      <pubDate>Fri, 21 Feb 2020 15:44:36 +0100</pubDate>
-      <guid>http://localhost:1313/projects/invisible-stories/</guid>
-      <description>&lt;p&gt;&#xA;&lt;a href=&#34;https://www.raccontinvisibili.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Racconti Invisibili&lt;/a&gt; | Exhibitions - Software development | 2019, 2020&lt;/p&gt;&#xA;&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;Europa&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sofia, Bulgaria | &#xA;&lt;a href=&#34;https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia National Gallery&lt;/a&gt; - 2020&lt;/li&gt;&#xA;&lt;li&gt;Sarajevo, Bosnia and Herzegovina | &#xA;&lt;a href=&#34;https://ugbih.ba/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Art Gallery of Bosnia and Herzegovina&lt;/a&gt; - 2019&lt;/li&gt;&#xA;&lt;li&gt;Gyumry, Armenia | &#xA;&lt;a href=&#34;https://www.facebook.com/Artush.StyleArtGallery/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Art Gallery&lt;/a&gt; - 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;America&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monclova, Messico | 2020&lt;/li&gt;&#xA;&lt;li&gt;Buenos Aires, Argentina | 2019&lt;/li&gt;&#xA;&lt;li&gt;Santiago del Cile, Cile | 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;invisible-stories.png&#34; alt=&#34;Invisible Stories&#34; title=&#34;Invisible Stories&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skills</title>
-      <link>http://localhost:1313/skills/</link>
-      <pubDate>Sun, 17 Mar 2019 11:54:15 +0100</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
-      <description>&lt;h2 id=&#34;web-development&#34;&gt;&#xA;  Web Development&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#web-development&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).&lt;/p&gt;&#xA;&lt;p&gt;I have strong experience in Web GIS development, working with GeoServer, PostGIS, and frontend libraries like OpenLayers and Leaflet for interactive mapping. I also use QGIS for spatial data processing and analysis, and I’m familiar with spatial ETL pipelines and geospatial data standards (WMS, WFS, GeoJSON, NetCDF).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 17 Mar 2019 10:42:58 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Full Stack Developer, Web GIS Developer, Project Manager for a wide range of business applications. Skilled with the agile methodology for software development. Interested in Relational Database design, Data Analysis, Multimedia Interactive Applications, Remote Monitoring, Home Automation, Machine Learning.&lt;/p&gt;&#xA;&lt;p&gt;You can download my resume &#xA;&lt;a href=&#34;http://localhost:1313/about/CV-MantovaniBanellaGabriele.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Electric Aquarium</title>
-      <link>http://localhost:1313/projects/electric-aquarium/</link>
-      <pubDate>Sun, 01 Jun 2014 11:33:27 +0100</pubDate>
-      <guid>http://localhost:1313/projects/electric-aquarium/</guid>
-      <description>&lt;p&gt;Oslo, Software development | &#xA;&lt;a href=&#34;https://marmuseum.no/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Norsk Maritimt Museum&lt;/a&gt; - 2014&lt;/p&gt;&#xA;&lt;p&gt;Stack: Python/Django, jQuery, PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;Electric-Aquarium.pdf&#34;&gt;&lt;img src=&#34;electric-aquarium.jpg&#34; alt=&#34;Electric Aquarium&#34; title=&#34;view&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;Electric-Aquarium.pdf&#34;&gt;ELECTRIC AQUARIUM PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sonic Island</title>
-      <link>http://localhost:1313/projects/sonic-island/</link>
-      <pubDate>Fri, 19 Oct 2012 09:10:36 +0100</pubDate>
-      <guid>http://localhost:1313/projects/sonic-island/</guid>
-      <description>&lt;p&gt;Roma, Multimedia | Software development | 2012 - 2013&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;sonic-island.png&#34; alt=&#34;Sonic Island&#34; title=&#34;Interactive Installation&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>In Out</title>
-      <link>http://localhost:1313/projects/in-out/</link>
-      <pubDate>Tue, 19 Apr 2011 09:16:27 +0100</pubDate>
-      <guid>http://localhost:1313/projects/in-out/</guid>
-      <description>&lt;p&gt;Roma, Social | Sail therapy | 2011 - 2012&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;in-out.png&#34; alt=&#34;In Out&#34; title=&#34;Sail therapy&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ReCollection Mechanism</title>
-      <link>http://localhost:1313/projects/recollection-mechanism/</link>
-      <pubDate>Sat, 01 Jan 2000 12:28:56 +0100</pubDate>
-      <guid>http://localhost:1313/projects/recollection-mechanism/</guid>
-      <description>&lt;p&gt;Berlin, Software development | &#xA;&lt;a href=&#34;https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamburger Bahnhof&lt;/a&gt; – 1999 - 2000&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;recollection-mechanism.png&#34; alt=&#34;The ReCollection Mechanism © A.Dreyblatt&#34; title=&#34;The ReCollection Mechanism&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;ReCollection-Mechanism.pdf&#34;&gt;THE RECOLLECTION MECHANISM PDF&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alma Laurea</title>
-      <link>http://localhost:1313/projects/almalaurea/</link>
-      <pubDate>Fri, 01 Jul 1994 11:17:26 +0100</pubDate>
-      <guid>http://localhost:1313/projects/almalaurea/</guid>
-      <description>&lt;p&gt;Alma Mater Studiorum, Osservatorio di Statistica, Software development - 1994 - 1998&lt;/p&gt;&#xA;&lt;p&gt;Realizzazione del software di gestione del questionario:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;realizzazione modello digitale&lt;/li&gt;&#xA;&lt;li&gt;sviluppo software di scansione&lt;/li&gt;&#xA;&lt;li&gt;sviluppo software di gestione e controllo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;http://www.almalaurea.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alma Laurea Site&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://it.wikipedia.org/wiki/Consorzio_interuniversitario_AlmaLaurea&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alma Laurea Wiki&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;almalaurea.gif&#34; alt=&#34;Consorzio Interuniversitario AlmaLaurea&#34; title=&#34;Consorzio Interuniversitario AlmaLaurea&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabriele Mantovani Banella</title><link>https://mantoga.github.io/</link><description>Recent content on Gabriele Mantovani Banella</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 12 Jun 2025 18:00:00 +0200</lastBuildDate><atom:link href="https://mantoga.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Palazzo San Felice</title><link>https://mantoga.github.io/projects/palazzo-san-felice/</link><pubDate>Thu, 12 Jun 2025 18:00:00 +0200</pubDate><guid>https://mantoga.github.io/projects/palazzo-san-felice/</guid><description>&lt;p&gt;Verso la futura Biblioteca di Archeologia e Storia dell&amp;rsquo;Arte | Exhibitions - Software development | 2025&lt;/p&gt;
+&lt;h4 id="remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ Remote control and management system for video streaming and video projectors
+ &lt;a class="heading-link" href="#remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ &lt;i class="fa fa-link" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="https://www.culturaincantiere.it/it" target="_blank" rel="noopener"&gt;&lt;img src="san-felice-01.png" alt="locandina" title="culturaincantiere"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Il progetto di curatela e l’allestimento analogico e digitale del percorso di visita è stato affidato, su incarico dell’Agenzia del Demanio - ente attuatore del progetto di ristrutturazione di Palazzo San Felice - e in accordo con la Presidenza della Repubblica e il Ministero della Cultura, a un team di ricercatori e designer del Centro di ricerca e servizi Saperi&amp;amp;Co della Sapienza, guidati da Carlo Martino, docente di Design, e Luca Ruzza, docente di Discipline dello spettacolo, e composto da Gaia Casaldi, Carlotta Belluzzi Mus, Anna Turco, Daniela Dispoto e Donato Locantore.&lt;/p&gt;</description></item><item><title>Piccole Cisterne Fermo</title><link>https://mantoga.github.io/projects/piccole-cisterne-fermo-dante/</link><pubDate>Sun, 27 Feb 2022 17:00:09 +0200</pubDate><guid>https://mantoga.github.io/projects/piccole-cisterne-fermo-dante/</guid><description>&lt;p&gt;Paesaggi e personaggi della Commedia | Exhibitions - Software development | 2022&lt;/p&gt;
+&lt;h4 id="remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ Remote control and management system for video streaming and video projectors
+ &lt;a class="heading-link" href="#remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ &lt;i class="fa fa-link" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Stack: Go, Python, Svelte JS, PostgreSQL&lt;/p&gt;
+&lt;p&gt;I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – &lt;strong&gt;in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Accademia Nazionale dei Lincei</title><link>https://mantoga.github.io/projects/accademia-nazionale-dei-lincei-dante/</link><pubDate>Thu, 07 Oct 2021 18:00:00 +0200</pubDate><guid>https://mantoga.github.io/projects/accademia-nazionale-dei-lincei-dante/</guid><description>&lt;p&gt;Paesaggi e personaggi della Commedia | Exhibitions - Software development | 2021&lt;/p&gt;
+&lt;h4 id="remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ Remote control and management system for video streaming and video projectors
+ &lt;a class="heading-link" href="#remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ &lt;i class="fa fa-link" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Stack: Go, Python, Svelte JS, PostgreSQL&lt;/p&gt;
+&lt;p&gt;I personaggi della Divina Commedia e l’immaginario dantesco rivisitati attraverso la fortuna iconografica del poema – dai miniaturisti antichi, agli illustratori del &amp;lsquo;Settecento e dell&amp;rsquo;Ottocento, fino agli artisti contemporanei – &lt;strong&gt;in una innovativa messa in scena &amp;lsquo;immersiva&amp;rsquo;&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Cantieri della Civiltà Marinara</title><link>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</link><pubDate>Wed, 12 Aug 2020 18:00:00 +0100</pubDate><guid>https://mantoga.github.io/projects/cantieri-della-civilta-marinara/</guid><description>&lt;p&gt;Porto San Giorgio | Exhibitions - Software development | 2020&lt;/p&gt;
+&lt;h4 id="remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ Remote control and management system for video streaming and video projectors
+ &lt;a class="heading-link" href="#remote-control-and-management-system-for-video-streaming-and-video-projectors"&gt;
+ &lt;i class="fa fa-link" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;
+&lt;a href="https://www.raiplay.it/video/2020/10/Linea-Blu---Porto-San-Giorgio-6e2d4ca2-8cae-49a7-85a8-e93f9fc9969b.html" target="_blank" rel="noopener"&gt;Linea Blu a Porto San Giorgio puntata del 17 ottobre 2020&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="https://www.sangiorgioturismo.it/cantieri-della-civilta-marinara/" target="_blank" rel="noopener"&gt;&lt;img src="fortunale.jpg" alt="Cantieri della Civiltà Marinara" title="www.sangiorgioturismo.it/cantieri-della-civilta-marinara"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Il recente accordo di collaborazione stipulato dall’Istituto Centrale per il Patrimonio Immateriale (ICPI) con il Comune di Porto San Giorgio ha portato in brevissimo tempo alla realizzazione di un &lt;strong&gt;polo dedicato al patrimonio culturale immateriale dell’Adriatico centrale&lt;/strong&gt;, un nuovo attrattore turistico-culturale per la città e per l’intero territorio regionale. Lo spazio, all’interno del Palazzo Trevisani, nel centro storico di Porto San Giorgio, è diviso in tre sezioni: &lt;strong&gt;il Fortunale, il Porto dei Suoni e Onda volubile&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Invisible Stories</title><link>https://mantoga.github.io/projects/invisible-stories/</link><pubDate>Fri, 21 Feb 2020 15:44:36 +0100</pubDate><guid>https://mantoga.github.io/projects/invisible-stories/</guid><description>&lt;p&gt;
+&lt;a href="https://www.raccontinvisibili.com" target="_blank" rel="noopener"&gt;Racconti Invisibili&lt;/a&gt; | Exhibitions - Software development | 2019, 2020&lt;/p&gt;
+&lt;p&gt;Stack: Go, Python, React JS, PostgreSQL&lt;/p&gt;
+&lt;p&gt;Europa&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sofia, Bulgaria | 
+&lt;a href="https://nationalgallery.bg/exhibitions/italy-the-invisible-stories/" target="_blank" rel="noopener"&gt;Sofia National Gallery&lt;/a&gt; - 2020&lt;/li&gt;
+&lt;li&gt;Sarajevo, Bosnia and Herzegovina | 
+&lt;a href="https://ugbih.ba/en/" target="_blank" rel="noopener"&gt;Art Gallery of Bosnia and Herzegovina&lt;/a&gt; - 2019&lt;/li&gt;
+&lt;li&gt;Gyumry, Armenia | 
+&lt;a href="https://www.facebook.com/Artush.StyleArtGallery/" target="_blank" rel="noopener"&gt;Art Gallery&lt;/a&gt; - 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;America&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monclova, Messico | 2020&lt;/li&gt;
+&lt;li&gt;Buenos Aires, Argentina | 2019&lt;/li&gt;
+&lt;li&gt;Santiago del Cile, Cile | 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="invisible-stories.png" alt="Invisible Stories" title="Invisible Stories"&gt;&lt;/p&gt;</description></item><item><title>Skills</title><link>https://mantoga.github.io/skills/</link><pubDate>Sun, 17 Mar 2019 11:54:15 +0100</pubDate><guid>https://mantoga.github.io/skills/</guid><description>&lt;h2 id="web-development"&gt;
+ Web Development
+ &lt;a class="heading-link" href="#web-development"&gt;
+ &lt;i class="fa fa-link" aria-hidden="true"&gt;&lt;/i&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I build web apps with Python + (Django, Flask), with Node + (Express, Angular, React, Svelte), with Go + (Hugo, Gin Gonic, Gorilla toolkit), with Php + (Symfony, Drupal, WordPress).&lt;/p&gt;
+&lt;p&gt;I have strong experience in Web GIS development, working with GeoServer, PostGIS, and frontend libraries like OpenLayers and Leaflet for interactive mapping. I also use QGIS for spatial data processing and analysis, and I’m familiar with spatial ETL pipelines and geospatial data standards (WMS, WFS, GeoJSON, NetCDF).&lt;/p&gt;</description></item><item><title>About</title><link>https://mantoga.github.io/about/</link><pubDate>Sun, 17 Mar 2019 10:42:58 +0100</pubDate><guid>https://mantoga.github.io/about/</guid><description>&lt;p&gt;Full Stack Developer, Web GIS Developer, Project Manager for a wide range of business applications. Skilled with the agile methodology for software development. Interested in Relational Database design, Data Analysis, Multimedia Interactive Applications, Remote Monitoring, Home Automation, Machine Learning.&lt;/p&gt;
+&lt;p&gt;You can download my resume 
+&lt;a href="https://mantoga.github.io/about/CV-MantovaniBanellaGabriele.pdf"&gt;here&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Electric Aquarium</title><link>https://mantoga.github.io/projects/electric-aquarium/</link><pubDate>Sun, 01 Jun 2014 11:33:27 +0100</pubDate><guid>https://mantoga.github.io/projects/electric-aquarium/</guid><description>&lt;p&gt;Oslo, Software development | 
+&lt;a href="https://marmuseum.no/en" target="_blank" rel="noopener"&gt;Norsk Maritimt Museum&lt;/a&gt; - 2014&lt;/p&gt;
+&lt;p&gt;Stack: Python/Django, jQuery, PostgreSQL&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="Electric-Aquarium.pdf"&gt;&lt;img src="electric-aquarium.jpg" alt="Electric Aquarium" title="view"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="Electric-Aquarium.pdf"&gt;ELECTRIC AQUARIUM PDF&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Sonic Island</title><link>https://mantoga.github.io/projects/sonic-island/</link><pubDate>Fri, 19 Oct 2012 09:10:36 +0100</pubDate><guid>https://mantoga.github.io/projects/sonic-island/</guid><description>&lt;p&gt;Roma, Multimedia | Software development | 2012 - 2013&lt;/p&gt;
+&lt;p&gt;&lt;img src="sonic-island.png" alt="Sonic Island" title="Interactive Installation"&gt;&lt;/p&gt;</description></item><item><title>In Out</title><link>https://mantoga.github.io/projects/in-out/</link><pubDate>Tue, 19 Apr 2011 09:16:27 +0100</pubDate><guid>https://mantoga.github.io/projects/in-out/</guid><description>&lt;p&gt;Roma, Social | Sail therapy | 2011 - 2012&lt;/p&gt;
+&lt;p&gt;&lt;img src="in-out.png" alt="In Out" title="Sail therapy"&gt;&lt;/p&gt;</description></item><item><title>ReCollection Mechanism</title><link>https://mantoga.github.io/projects/recollection-mechanism/</link><pubDate>Sat, 01 Jan 2000 12:28:56 +0100</pubDate><guid>https://mantoga.github.io/projects/recollection-mechanism/</guid><description>&lt;p&gt;Berlin, Software development | 
+&lt;a href="https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/home/" target="_blank" rel="noopener"&gt;Hamburger Bahnhof&lt;/a&gt; – 1999 - 2000&lt;/p&gt;
+&lt;p&gt;&lt;img src="recollection-mechanism.png" alt="The ReCollection Mechanism © A.Dreyblatt" title="The ReCollection Mechanism"&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="ReCollection-Mechanism.pdf"&gt;THE RECOLLECTION MECHANISM PDF&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Alma Laurea</title><link>https://mantoga.github.io/projects/almalaurea/</link><pubDate>Fri, 01 Jul 1994 11:17:26 +0100</pubDate><guid>https://mantoga.github.io/projects/almalaurea/</guid><description>&lt;p&gt;Alma Mater Studiorum, Osservatorio di Statistica, Software development - 1994 - 1998&lt;/p&gt;
+&lt;p&gt;Realizzazione del software di gestione del questionario:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;realizzazione modello digitale&lt;/li&gt;
+&lt;li&gt;sviluppo software di scansione&lt;/li&gt;
+&lt;li&gt;sviluppo software di gestione e controllo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href="http://www.almalaurea.it/en" target="_blank" rel="noopener"&gt;Alma Laurea Site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="https://it.wikipedia.org/wiki/Consorzio_interuniversitario_AlmaLaurea" target="_blank" rel="noopener"&gt;Alma Laurea Wiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="almalaurea.gif" alt="Consorzio Interuniversitario AlmaLaurea" title="Consorzio Interuniversitario AlmaLaurea"&gt;&lt;/p&gt;</description></item></channel></rss>
